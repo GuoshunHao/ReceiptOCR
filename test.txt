@@ -1,10 +1,4 @@
-
-A
-A
-B
-B
-A
-D
+How to move cursor?
 This is myY test file.
 Git is a version contral system.
 Git is free.

@@ -1,3 +1,10 @@
-This is a test file.
+
+A
+A
+B
+B
+A
+D
+This is myY test file.
 Git is a version contral system.
 Git is free.
